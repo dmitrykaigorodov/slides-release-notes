@@ -15,6 +15,14 @@
 ### Breaking Changes
 - Grammarly support is temporarily off 
 
+
+# Release with notes (Aug 17, 2023)
+
+### Improvements
+- fixed mobile view
+- fix slide text stays the same when deleting a slide
+
+
 https://meetslides.com/
 
 
