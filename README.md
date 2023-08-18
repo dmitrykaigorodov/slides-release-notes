@@ -5,6 +5,7 @@
 ### Bug fixes
 - Fixed mobile view slide font size too small
 - Fixed mobile view layout multiple vertical scrolls hide bottom of UI
+- Hide .GetStartedHintContent on mobile
 
 ## Fixes based on Aleksander M feedback (Aug 17, 2023)
 
