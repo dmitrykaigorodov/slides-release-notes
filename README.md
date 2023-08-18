@@ -1,5 +1,11 @@
 # MeetSlides Release Notes
 
+## Mobile fixes (Aug 18, 2023)
+
+### Bug fixes
+- Fixed mobile view slide font size too small
+- Fixed mobile view layout multiple vertical scrolls hide bottom of UI
+
 ## Fixes based on Aleksander M feedback (Aug 17, 2023)
 
 ### Bug fixes 
